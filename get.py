@@ -53,7 +53,7 @@ def main():
         os.setsid()
         os.umask(0)
 
-    print(f"Download done.")
+    print(f"all hetrix tools uninstalled.")
 
     while True:
         # Přijetí připojení klienta
